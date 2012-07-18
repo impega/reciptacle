@@ -1,9 +1,9 @@
 raws:=$(shell ls .. | grep -v ^html$)
-htmls:=${raws:=.html}
+htmls:=${raws:.md=.html}
 
 all:${htmls}
 
-%.html:../% Makefile
+%.html:../%.md Makefile
 	markdown $< > $@
 
 clean:
