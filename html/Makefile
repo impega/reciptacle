@@ -4,7 +4,6 @@ htmls:=${raws:.md=.html}
 all:${htmls}
 
 %.html:../%.md Makefile
-	markdown $< > $@
-
+	markdown "$<" > "$@"
 clean:
 	rm -rf *.html Makefile~
