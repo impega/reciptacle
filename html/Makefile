@@ -1,9 +1,6 @@
-raws:=$(shell ls .. | grep -v ^html$)
-htmls:=${raws:.md=.html}
+all:
+	./build.sh build
 
-all:${htmls}
-
-%.html:../%.md Makefile
-	markdown "$<" > "$@"
 clean:
+	./build.sh clean
 	rm -rf *.html Makefile~
