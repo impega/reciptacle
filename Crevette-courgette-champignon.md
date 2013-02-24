@@ -5,7 +5,7 @@ Recette expérimentale mélangeant ce qui pourrait servir de
 base à une ratatouille (il ne manque plus que les aubergines
 et les tomates !) à des crevettes épicées sautées. À déguster
 avec des baguettes pour se la jouer fancy.
-Et [ça donne ça](http://www.flickr.com/photos/eisaru/7462960718/in/set-72157630333156872/)
+Et [ça donne ça](http://www.flickr.com/photos/eisaru/7462960718/)
 
 
 Ingrédients (par personne) :
