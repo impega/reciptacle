@@ -6,7 +6,7 @@ Cette recette est une base végétarienne qui peut être
 enrichie de viande.
 Les proportions sont pour 10 à 12 entrées (diviser par
 3 ou 4 le nombre de couverts pour en faire un plat
-principal).
+principal). Une fois préparé, [ça donne](http://www.flickr.com/photos/eisaru/8525262545).
 
 Ingrédients :
 -------------
@@ -21,7 +21,8 @@ Ingrédients :
 - 200g de pommes de terre en dés
 - 1 boîte de tomates
 - 1 cuiller à café de concentré de tomate
-- 2 têtes d'ail
+- 2 gousses d'ail finement hachés
+- 2 piments verts fins
 - 30g de coriandre fraîche
 - 1.5 cuiller à café de jus de citron
 - 2 fonds de sauce "légumes"
@@ -33,12 +34,12 @@ Ingrédients :
 - crème aigre
 - un shooter de vodka (si, si, je vous jure)
 
-Préparation :
+Préparation (hautement parallèle) :
 -------------
 
 - Mettre l'huile dans une poêle chaude, ajouter l'oignon,
-la carotte and le poivron. Cuire jusqu'à ce que les légumes
-soient tendres.
+la carotte, le poivron et les piments. Cuire à feu doux
+jusqu'à ce que les légumes soient tendres.
 
 - Ajouter les betteraves et les laisser frire 5 minutes en
 remuant régulièrement.
