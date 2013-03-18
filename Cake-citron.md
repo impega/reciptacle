@@ -6,7 +6,7 @@ Un cake au citron rapide (et efficace).
 Temps de préparation actif ; 10 minutes pour l'étape 1, 5 minutes pour l'étape 2. 
 Temps de préparation passif ; 45-60 minutes de cuisson, et 30min/1h de repos.
 
-Il suffit de râper et presser des citrons, mélanger des ingrédients au fouet, mettre un moule au four, et faire chauffer un liquide à la casserole. 
+Il suffit de râper et presser des citrons, mélanger des ingrédients au fouet, mettre un moule au four, et faire chauffer un liquide à la casserole. [Et ça donne ça](http://www.flickr.com/photos/eisaru/8567325955/) ! 
 
 Ingrédients :
 -------------
@@ -16,6 +16,7 @@ Ingrédients :
 - 100g de beurre
 - 100g+100g de sucre
 - 2 citrons non traités
+- (optionnel) 50g de graines de pavot
 
 Préparation :
 -------------
@@ -30,7 +31,7 @@ Préparation :
 
 * Ajouter les oeufs un à un, en fouettant.
 
-* Verser progressivement la farine, la levure, et l'écorce de citron, tout en remuant.
+* Verser progressivement la farine, la levure, (les graines de pavot,) et l'écorce de citron, tout en remuant.
 
 * Verser la pâte dans un moule en silicone, ou un moule beurré/huilé. Laisser cuire entre 45 et 60 minutes (vérifier la cuisson au couteau). Sortir le gâteau du four mais le laisser dans le moule.
 
