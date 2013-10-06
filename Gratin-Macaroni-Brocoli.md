@@ -24,7 +24,7 @@ dès que l'eau est frémissante
 
 3. Émincer les tomates séchées et couper quelques rondelles de chèvres.
 
-4. Égouter les brocolis / macaronis et les placer dans un plat à grattiner
+4. Égouter les brocolis / macaronis et les placer dans un plat à gratiner
 en mélangeant les tomates séchées. Couvrir le tout avec les rondelles de
 chèvre et placer le tout dans un four à 200°C.
 
