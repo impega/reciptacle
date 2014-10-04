@@ -12,7 +12,7 @@ Ingrédients (pour 6 muffins) :
 
 - 100g de farine
 - 2 cuiller à soupe de sucre
-- 1/2 cuiller à café de bicarbonate de soude (levure chimique)
+- 1 cuiller à café de bicarbonate de soude (levure chimique)
 - 100 mL de lait
 - 1 œuf
 - 2 cuillers à café d'huile
