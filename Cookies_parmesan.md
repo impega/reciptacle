@@ -20,7 +20,7 @@ Préparation :
 * Préchauffez le four à 150 °C. Habillez deux plaques à four 
 avec des feuilles de papier cuisson ou de silicone.
 
-* Mélangez les farines, le sel, le paprika dans le bol d'un robot. 
+* Mélangez les farine, levure, sel, et paprika dans le bol d'un robot. 
 Ajoutez le beurre en morceaux, puis le parmesan, le piment et 
 suffisamment d'eau pour constituer une pâte souple.
 
