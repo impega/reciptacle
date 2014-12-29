@@ -1,0 +1,24 @@
+branches:
+  only:
+  - master
+install:
+- sudo apt-get install markdown
+script:
+- cd html
+- ./build.sh
+- cd ..
+- mv html/*.html .
+after_success:
+- git init
+- git config user.name "Travis Worker"
+- git config user.email "travis@gallais.org"
+- git remote add upstream https://${GH_TOKEN}@github.com/impega/reciptacle.git &>/dev/null
+- git fetch upstream && git reset upstream/gh-pages
+- git add *.html
+- git commit -m "Uploading snapshot $(date '+%m/%d/%y %H:%M')"
+- git push -q upstream HEAD:gh-pages &>/dev/null
+notifications:
+  email: false
+env:
+  global:
+    secure: T90bTifcShiQSag/AnZSu3gOcIKcYaEX2GytuJxzm+Oht8edoMntBTesdtarjj4AbzoKed0jnYEkhX/UNoA17ULObBmhOCqWl72lngucRjw50+Ku0Mj39h/78CruWmi/kcE0bWC/KAlOu59CmljNI0gG57KFEnja9AcUSEIw95E=
