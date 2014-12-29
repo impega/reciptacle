@@ -1,1 +1,1 @@
-Hurray, recipes!
+[Hurray, recipes!](http://impega.github.io/reciptacle/)
