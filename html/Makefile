@@ -1,4 +1,5 @@
 all:
+	./index.sh > ../index.md
 	./build.sh build
 
 clean:
