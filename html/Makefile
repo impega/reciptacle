@@ -1,5 +1,5 @@
 all:
-	./index.sh > ../index.md
+	./index.sh > index.md
 	./build.sh build
 
 clean:

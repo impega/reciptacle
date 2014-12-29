@@ -3,7 +3,7 @@
 cmd="$1"
 
 listmd() {
-  find .. | grep '\.md$' | sed 's/\.md$//;s/^\.\.\///'
+  find . | grep '\.md$' | sed 's/\.md$//'
 }
 
 listdir() {
@@ -13,7 +13,7 @@ listdir() {
 case "$cmd" in
   build)
     listdir | while read f; do mkdir -p "$f"; done
-    listmd  | while read f; do markdown ../"$f".md > "$f".html; done
+    listmd  | while read f; do markdown "$f".md > "$f".html; done
     ;;
   
   clean)
