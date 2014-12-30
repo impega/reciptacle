@@ -13,7 +13,7 @@ listdir() {
 case "$cmd" in
   build)
     listdir | while read f; do mkdir -p "$f"; done
-    listmd  | while read f; do markdown "$f".md > "$f".html; done
+    listmd  | while read f; do cp header "$f".html; markdown "$f".md >> "$f".html; cat footer >> "$f".html; done
     ;;
   
   clean)
