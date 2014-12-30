@@ -4,4 +4,4 @@ all: clean
 	./postprod.sh
 
 clean:
-	rm -rf *.html *.md Makefile~
+	rm -rf ./*.html ./*.md Makefile~
