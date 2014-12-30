@@ -6,7 +6,8 @@ Cette recette est une base végétarienne qui peut être
 enrichie de viande.
 Les proportions sont pour 10 à 12 entrées (diviser par
 3 ou 4 le nombre de couverts pour en faire un plat
-principal). Une fois préparé, [ça donne](http://www.flickr.com/photos/eisaru/8525262545).
+principal). Une fois préparé, ça donne : 
+[![photo](https://farm9.staticflickr.com/8390/8525262545_0a26060d02_z_d.jpg)](http://www.flickr.com/photos/eisaru/8525262545).
 
 Ingrédients :
 -------------

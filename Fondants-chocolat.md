@@ -2,7 +2,8 @@ Fondants au chocolat
 ====================
 
 Recette excellente de [Gopi](https://github.com/Gaupy)
-et dont [voilà le résultat](https://secure.flickr.com/photos/eisaru/15121896569/).
+et dont voilà le résultat : 
+[![photo](https://farm4.staticflickr.com/3880/15121896569_43536614ee_z_d.jpg)](https://secure.flickr.com/photos/eisaru/15121896569/)
 
 Ingrédients :
 -------------

@@ -6,7 +6,8 @@ Un cake au citron rapide (et efficace).
 Temps de préparation actif ; 10 minutes pour l'étape 1, 5 minutes pour l'étape 2. 
 Temps de préparation passif ; 45-60 minutes de cuisson, et 30min/1h de repos.
 
-Il suffit de râper et presser des citrons, mélanger des ingrédients au fouet, mettre un moule au four, et faire chauffer un liquide à la casserole. [Et ça donne ça](http://www.flickr.com/photos/eisaru/8567325955/) ! 
+Il suffit de râper et presser des citrons, mélanger des ingrédients au fouet, mettre un moule au four, et faire chauffer un liquide à la casserole. Et ça donne ça :
+[![photo](https://farm9.staticflickr.com/8093/8567325955_8244251310_z_d.jpg)](http://www.flickr.com/photos/eisaru/8567325955/)
 
 Ingrédients :
 -------------

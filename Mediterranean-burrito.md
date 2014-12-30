@@ -2,8 +2,8 @@ Burrito à la méditerranéenne
 =================
 
 Bon les maquereaux c'est plutôt l'atlantique mais on ne va pas
-jouer nos mijaurées pour autant. Une fois la recette terminée
-[ça donne ça](http://www.flickr.com/photos/eisaru/8503804428/).
+jouer nos mijaurées pour autant. Une fois la recette terminée, ça donne ça :
+[![photo](https://farm9.staticflickr.com/8520/8503804428_4292bb70c7_z_d.jpg)](http://www.flickr.com/photos/eisaru/8503804428/)
 
 Ingrédients (par personne) :
 ------

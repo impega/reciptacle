@@ -21,3 +21,7 @@ Préparer un des mélanges suivants (au pifomètre) :
 Étaler sur des tartines et passer 10/15 minutes au four
 
 Déguster aussitôt.
+Mots clefs
+==========
+
+#apéro

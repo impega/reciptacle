@@ -4,8 +4,10 @@ Tarte Brocoli-Feta
 À quelques modifications près, c'est une recette végé-friendly.
 On peut moduler l'ail et les anchois selon les goûts.
 
-[Le résultat final](https://secure.flickr.com/photos/eisaru/15305496031/)
-à accompagner d'une salade!
+Le résultat final :
+[![photo](https://farm6.staticflickr.com/5589/15305496031_2730c4fdec_z_d.jpg)](https://secure.flickr.com/photos/eisaru/15305496031/)
+
+À accompagner d'une salade!
 
 Ingrédients (pour 4 / 6) :
 -------------

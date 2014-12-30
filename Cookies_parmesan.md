@@ -31,3 +31,8 @@ Aplatissez légèrement les biscuits.
 * Saupoudrez de thym (ou graines de pavot).
 
 * Faites cuire 30 min. Manger chaud.
+
+Mots clefs
+==========
+
+#apéro

@@ -9,7 +9,8 @@ de se faire oublier et de vous prendre en traître.
 être légèrement fris dans la poêle --non nettoyée-- utilisée
 dans cette recette).
 
-Une fois terminé, [ça ressemble à ça](http://www.flickr.com/photos/eisaru/8505391898).
+Une fois terminé, ça ressemble à ça :
+[![photo](https://farm9.staticflickr.com/8365/8505391898_1b5e15425c_z_d.jpg)](http://www.flickr.com/photos/eisaru/8505391898)
 
 Ingrédients (pour 4) :
 ------
