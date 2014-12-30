@@ -1,0 +1,17 @@
+h1 {
+  text-align: center
+}
+
+#recipes {
+  width: 49%;
+  float: left;
+  border-style: solid;
+  border-color: #000000;
+}
+
+#keywords {
+  width: 49%;
+  float: right;
+  border-style: solid;
+  border-color: #000000;
+}
