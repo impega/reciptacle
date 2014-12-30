@@ -54,3 +54,8 @@ Verser dans la casserolle et mélanger.
 
 5. Couvrir de coriandre fraîchement hachée et servir avec du riz,
 des naans, ...
+
+Mots clefs
+=========
+
+#indien
