@@ -43,3 +43,9 @@ Préparation :
 * Le gâteau est prêt quand le sirop ne bouge plus lorsqu'on penche légèrement le moule.
 
 Ça donne un gâteau assez sucré mais très parfumé, et bien moelleux puisque le sirop a normalement imprégné le dessus et les côtés du gâteau.
+
+Mots clefs :
+----------------
+
+#dessert
+

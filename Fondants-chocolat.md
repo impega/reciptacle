@@ -26,3 +26,9 @@ Préparation :
 * Beurrer et fariner les ramequins
 
 * Cuire 12 minutes au four à 200°C (th 7)
+
+Mots clefs :
+----------------
+
+#dessert
+

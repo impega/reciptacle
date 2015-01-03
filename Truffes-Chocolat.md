@@ -45,3 +45,9 @@ former des boules et les rouler dans l'enrobage. Retirer l'excédent
 puis disposer la truffe dans une assiette. Conserver au frigo entre
 deux dégustations.
 
+
+Mots clefs :
+----------------
+
+#dessert
+

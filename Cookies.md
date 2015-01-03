@@ -36,3 +36,8 @@ Préparation :
 	- cuire au four 8 à 10 minutes à 200°C (thermostat 6.7)
 	- cuire au four 8 à 10 minutes à 180°C (thermostat 6)
 
+Mots clefs :
+----------------
+
+#dessert
+

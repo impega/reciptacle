@@ -52,3 +52,9 @@ Pour préparer votre bombe glacée à la framboise :
 * Pour servir, passer un couteau entre la paroi du moule et la glace, puis démouler la bombe sur un plat de service.
 
 * Pour décorer, disposer des framboises autour de la bombe ainsi que quelques-unes sur le sommet et saupoudrer de sucre glace. Terminer le décor en mettant une feuille de menthe fraîche au sommet.
+
+Mots clefs :
+----------------
+
+#dessert
+

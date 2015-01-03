@@ -21,3 +21,8 @@ Préparation :
 - Former des petites boules / pyramides sur une feuille de papier sulfurisé
 - Enfourner pendant 15-20 minutes (surveiller à partir de 15)
 
+Mots clefs :
+----------------
+
+#dessert
+
