@@ -17,7 +17,10 @@ echo "Mots clefs"              >> keywords.md;
 echo "=========="              >> keywords.md;
 
 for i in $( ls *.md | grep -e "index\..*\.md" | sed 's/index\.//' | sed "s/\.md//" ); do
-  echo "* [$i ($(wc -l index.$i.md | sed 's/\([0-9]*\) .*$/\1/'))](index.$i.html)" >> keywords.md;
+  number=$(wc -l index.$i.md | sed 's/\([0-9]*\) .*$/\1/')
+  #  echo "* [$i ($number))](index.$i.html)" >> keywords.md;
+  size=$(echo "$number/3 +1" | bc -l)
+  echo "<span style='font-size:${size}em'><a href='index.$i.html'>$i</a></span>" >> keywords.md;
   sed -i "1i[Retour à l'index](index.html)\n" index."$i".md;
 done;
 
