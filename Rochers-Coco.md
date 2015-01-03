@@ -9,7 +9,7 @@ Ingrédients :
 
 - 100g de noix de coco rapée déhydratée
 - 50g de sucre farine
-- 1 oeuf
+- 1 œuf
 
 Préparation :
 -------------

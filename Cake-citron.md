@@ -12,7 +12,7 @@ Il suffit de râper et presser des citrons, mélanger des ingrédients au fouet,
 Ingrédients :
 -------------
 
-- 3 oeufs
+- 3 œufs
 - 175g de farine + 1/2 sachet de levure
 - 100g de beurre
 - 100g+100g de sucre
@@ -30,7 +30,7 @@ Préparation :
 
 * Mélanger le beurre et 100g de sucre dans un saladier jusqu'à ce que ce soit crémeux.
 
-* Ajouter les oeufs un à un, en fouettant.
+* Ajouter les œufs un à un, en fouettant.
 
 * Verser progressivement la farine, la levure, (les graines de pavot,) et l'écorce de citron, tout en remuant.
 

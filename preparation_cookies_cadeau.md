@@ -21,7 +21,7 @@ Fermer le pot.
 Faire une jolie étiquette, et une petite recette :
 
 - Préchauffer le four à 175°C
-- Dans un bol, mélanger 50 mL de beurre fondu, 1 oeuf, un soupçon de vanille.
+- Dans un bol, mélanger 50 mL de beurre fondu, 1 œuf, un soupçon de vanille.
 - Rajouter le contenu du pot.
 - Mélanger à la main.
 - Former des petits cacas avec la pâte sur une plaque.

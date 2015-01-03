@@ -13,7 +13,7 @@ Ingrédients
     - 1 cuillerée à soupe de sucre glace
     - 1/2 citron
     - 125 g de meringues nature ou à la framboise
-    - 4 oeufs
+    - 4 œufs
     - 150 g de sucre en poudre
     - 30 cl de crème fraîche liquide (fleurette ou uht)
 
@@ -35,7 +35,7 @@ Pour préparer votre bombe glacée à la framboise :
 
 * Mettre les meringues dans un sachet et les écraser doucement avec un rouleau à pâtisserie.
 
-* Casser les oeufs dans une terrine et les fouetter longuement au batteur électrique jusqu'à ce que le mélange soit mousseux.
+* Casser les œufs dans une terrine et les fouetter longuement au batteur électrique jusqu'à ce que le mélange soit mousseux.
 
 * Incorporer alors progressivement le sucre en pluie, en continuant de fouetter jusqu'à ce que la préparation devienne brillante.
 

@@ -9,7 +9,7 @@ Temps de préparation passif ; 30min/1h de repos *avant* de cuisiner.
 Ingrédients :
 -------------
 
-- 1 oeuf
+- 1 œuf
 - des flocons de céréales (p.e. flocons d'avoine Quaker Oats, il y en a presque partout, rayon petit déjeuner)
 - du lait (pas nécessaire)
 - des légumes râpés/du maïs/des épices/whatever
@@ -19,7 +19,7 @@ Préparation :
 
 Étape 1.
 
-* Mettre des flocons dans un saladier, avec l'oeuf, et suffisamment d'eau/lait/eau+lait pour que les flocons soient recouverts.
+* Mettre des flocons dans un saladier, avec l'œuf, et suffisamment d'eau/lait/eau+lait pour que les flocons soient recouverts.
 
 * Laisser gonfler pendant au moins 30 min (en théorie une demie-journée, mais c'est pas nécessaire). 
 
@@ -31,7 +31,7 @@ Préparation :
 
 * Faire cuire à la poêle en galettes (C'est plus facile par tas de la taille d'un petit steak, mais tout dépend de la texture de la pâte).
 
-* Corriger en rajoutant des légumes/un oeuf/du lait si ça ne cuit pas correctement ou est trop friable.
+* Corriger en rajoutant des légumes/un œuf/du lait si ça ne cuit pas correctement ou est trop friable.
 
 Les légumes râpés donnent une meilleure tenue que des légumes hachés.
 

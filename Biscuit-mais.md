@@ -7,7 +7,7 @@ Temps de préparation passif ; 15 minutes.
 Ingrédients :
 -------------
 
-- 2 oeufs
+- 2 œufs
 - 70g de sucre roux
 - 100g de farine de maïs
 - épices (p.e. une cuiller à café de graines d'anis, et/ou du jus de citron vert)
@@ -17,7 +17,7 @@ Préparation :
 
 * Préchauffer le four à 160°C.
 
-* Battre les oeufs dans un saladier.
+* Battre les œufs dans un saladier.
 
 * Ajouter tout le reste progressivement et mélanger.
 
