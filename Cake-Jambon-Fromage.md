@@ -25,3 +25,8 @@ Préparation :
 - Ajouter progressivement la farine en remuant puis incorporer le reste des ingrédients
 
 - Verser dans un moule à cake puis l'enfourner dans un four froid, à 170°C pendant 45min environ
+
+Mots clefs :
+------------
+
+#apéro

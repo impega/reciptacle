@@ -17,7 +17,7 @@ echo "Mots clefs"              >> keywords.md;
 echo "=========="              >> keywords.md;
 
 for i in $( ls *.md | grep -e "index\..*\.md" | sed 's/index\.//' | sed "s/\.md//" ); do
-  echo "* [$i](index.$i.html)" >> keywords.md;
+  echo "* [$i ($(wc -l index.$i.md | sed 's/\([0-9]*\) .*$/\1/'))](index.$i.html)" >> keywords.md;
   sed -i "1i[Retour à l'index](index.html)\n" index."$i".md;
 done;
 

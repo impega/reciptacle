@@ -28,3 +28,7 @@ Préparation :
 * Mettre dans la sorbetière 30 minutes
 
 * Si pas de sorbetière, le but est de le faire refroidir lentement en mélangeant, donc il faut mettre au congélateur 10-30 minutes, puis mélanger doucement, puis boucler et ce pendant 1/2 journée minimum...
+Mots clefs :
+----------------
+
+#dessert
