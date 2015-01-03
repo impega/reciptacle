@@ -34,3 +34,9 @@ Notes
 * En fonction de la vitesse de refroidissement du chocolat et de la quantité à faire, il faudra peut-être alterner les étapes 3 et 4 ou demander de l'aide pour les paralléliser.
 
 * On peut tenter d'ajouter quelques épices au chocolat, par exemple piment d'Espelette ou gingembre en poudre.
+
+Mots clefs :
+----------------
+
+#chocolat
+

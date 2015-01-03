@@ -44,3 +44,10 @@ Avant ébullition, verser sur la base de biscuit.
 le caramel. Une fois solide, c'est prêt ! On le découpe généralement en
 portions rectangulaires.
 
+
+Mots clefs :
+----------------
+
+#dessert
+#chocolat
+

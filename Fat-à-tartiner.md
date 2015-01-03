@@ -26,3 +26,8 @@ Préparation :
 
 Maintenant jetez tout ça à la poubelle, c'est mauvais pour vous.
 
+Mots clefs :
+----------------
+
+#chocolat
+

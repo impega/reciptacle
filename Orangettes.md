@@ -46,3 +46,9 @@ Pour enrober de chocolat, plusieurs techniques, par qualité de présentation d�
 - Officiellement, prendre les bâtonnets un par un à l'aide d'un cure-dents (ou en tenant une extrémité avec les doigts), les plonger dans le chocolat et les ressortir.
 - En pratique, on peut en jeter plein d'un coup et les repêcher en vrac à la fourchette, même si ça peut faire un enrobage moins uniforme.
 - Quand on est vraiment pressé, on peut regrouper les bâtonnets dans une assiette, verser le chocolat dessus. Et, si on a le temps, les ressortir un par un pour quand même avoir des orangettes et pas un gratin dauphinois chocolat-agrumes (qui est très bon aussi, mais moins facile à manger et moins présentable).
+
+Mots clefs :
+----------------
+
+#chocolat
+
