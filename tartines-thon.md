@@ -1,4 +1,5 @@
 Tartines au thon
+================
 
 Préparer un des mélanges suivants (au pifomètre) :
 
@@ -9,7 +10,7 @@ Préparer un des mélanges suivants (au pifomètre) :
 - quelques câpres (~1 par tartine) et olives émincées
 - tomates en morceaux (tomates pelées ok, tomates séchées très bien)
 
-À la féta :
+À la feta :
 - thon
 - petits suisses
 - pommes en morceaux
@@ -21,6 +22,7 @@ Préparer un des mélanges suivants (au pifomètre) :
 Étaler sur des tartines et passer 10/15 minutes au four
 
 Déguster aussitôt.
+
 Mots clefs
 ==========
 

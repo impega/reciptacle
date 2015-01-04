@@ -10,7 +10,7 @@ Ingrédients (pour 6) :
 ----------------------
 
 - Base
-    - 500g de Bœuf hâché
+    - 500g de Bœuf haché
     - 600g de pâtes stir fry
     - 2 oignons
     - 6 tomates fraiches
@@ -45,7 +45,7 @@ Préparation (1h) :
 
 - Une fois que les oignons sont bien dorés, ajouter toutes les
   épices et remuer afin de bien recouvrir les oignons. Ajouter
-  ensuite le bœuf hâché. Dès que le bœuf est cuit, verser le
+  ensuite le bœuf haché. Dès que le bœuf est cuit, verser le
   sucre.
 
 - Couper les tomates (puis les champignons) en petits dés et les

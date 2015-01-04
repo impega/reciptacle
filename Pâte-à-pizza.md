@@ -22,10 +22,10 @@ Préparation
 
 * Ajouter progressivement l'huile puis l'eau tiède en mélangeant
 
-* Une fois que vous avez quelquechose qui se tient, travailler la pâte
+* Une fois que vous avez quelque chose qui se tient, travailler la pâte
 à la main sur le plan de travail légèrement fariné
 
-* Lorsque la pâte, élastique, est homogène, la rouller en boule et la
+* Lorsque la pâte, élastique, est homogène, la rouler en boule et la
 placer dans un saladier fariné. Fariner le dessus de la boule, couvrir
 d'un torchon humide et laisser reposer dans une pièce tempérée jusqu'à
 ce qu'elle ait doublée de taille.

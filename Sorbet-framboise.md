@@ -19,7 +19,7 @@ Préparation :
 
 * Mixer les framboises, éventuellement les passer au chinois si vous n'aimez pas les pépins
 
-* Dans une casserole porter à ébulliton sucre et eau, laisser bouillir 3-4 minutes jusqu'à obtenir un sirop
+* Dans une casserole porter à ébullition sucre et eau, laisser bouillir 3-4 minutes jusqu'à obtenir un sirop
 
 * Faire refroidir le sirop eau-sucre (bain marie froid si 1/2 quantités ; sinon il faut vraiment faire refroidir au moins 12h au frigo)
 
@@ -28,7 +28,9 @@ Préparation :
 * Mettre dans la sorbetière 30 minutes
 
 * Si pas de sorbetière, le but est de le faire refroidir lentement en mélangeant, donc il faut mettre au congélateur 10-30 minutes, puis mélanger doucement, puis boucler et ce pendant 1/2 journée minimum...
+
 Mots clefs :
 ----------------
 
 #dessert
+#framboise

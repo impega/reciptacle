@@ -7,7 +7,7 @@ thé, un café ou un dessert (par exemple une mousse au chocolat !).
 Ingrédients :
 -------------
 
-- 100g de noix de coco rapée déhydratée
+- 100g de noix de coco râpée déshydratée
 - 50g de sucre farine
 - 1 œuf
 

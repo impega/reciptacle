@@ -22,11 +22,11 @@ Ingrédients (par personne) :
     + 2 cuiller à soupe d'huile d'olive
     + 1 cuiller à café de poudre "curry"
     + des feuilles de coriandre
-    + le jus d'un demi-citron
+    + le jus d'un demi citron
 
 Préparation :
 ------
-La préparation se fait dans 2 poeles séparées :
+La préparation se fait dans 2 poêles séparées :
 
 1. Première poêle
     * Émincer les oignons et les faire revenir dans une cuiller

@@ -15,9 +15,9 @@ Ingrédients :
 - 2.5L d'eau
 - 2 cuiller à café d'huile
 - 1 oignon moyen finement haché
-- 1 carotte rapée
+- 1 carotte râpée
 - 1 poivron rouge en dés
-- 2 betteraves rouges rapées
+- 2 betteraves rouges râpées
 - 200g de chou fleur haché
 - 200g de pommes de terre en dés
 - 1 boîte de tomates
@@ -51,7 +51,7 @@ remuant régulièrement.
 d'eau bouillante puis ajouter les pommes de terre.
 
 - Lorsque les pommes de terres sont cuite, verser le
-contenu de la poele dans ce qu'il reste d'eau bouillante
+contenu de la poêle dans ce qu'il reste d'eau bouillante
 et laisser cuire 5 à 10 minutes. Ajouter l'ail.
 
 - Laisser reposer une heure (ou un jour, c'est encore mieux !)

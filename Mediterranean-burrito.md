@@ -36,10 +36,10 @@ Préparation (fortement parallèle) :
 
 3. Cuire le filet de Maquereau à feu vif dans une poêle (c'est un
    poisson très gras, pas besoin d'ajouter de l'huile). Fermer la
-   porte de la cuisine pour éviter d'empéster tout l'appartement...
+   porte de la cuisine pour éviter d'empester tout l'appartement...
 
 4. Chauffer la tortilla quelques minutes à feu moyen dans une poêle
    puis la retourner et place la tranche d'emmental en son centre.
 
-5. Dressage! Étaler le riz sur la tranche d'emmental, puis le filet
+5. Dressage ! Étaler le riz sur la tranche d'emmental, puis le filet
    éventuellement déchiqueté et finir avec les légumes. Bon appétit !

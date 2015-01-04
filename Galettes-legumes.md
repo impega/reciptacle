@@ -10,7 +10,7 @@ Ingrédients :
 -------------
 
 - 1 œuf
-- des flocons de céréales (p.e. flocons d'avoine Quaker Oats, il y en a presque partout, rayon petit déjeuner)
+- des flocons de céréales (p.ex. flocons d'avoine Quaker Oats, il y en a presque partout, rayon petit déjeuner)
 - du lait (pas nécessaire)
 - des légumes râpés/du maïs/des épices/whatever
 
@@ -21,7 +21,7 @@ Préparation :
 
 * Mettre des flocons dans un saladier, avec l'œuf, et suffisamment d'eau/lait/eau+lait pour que les flocons soient recouverts.
 
-* Laisser gonfler pendant au moins 30 min (en théorie une demie-journée, mais c'est pas nécessaire). 
+* Laisser gonfler pendant au moins 30 min (en théorie une demi-journée, mais c'est pas nécessaire). 
 
 * Râper/Hacher ce qui a besoin de l'être.
 
@@ -39,7 +39,7 @@ Exemples :
 ----------
 
 * Flocons d'avoine+4 carottes râpées+boîte de maïs+noix de muscade.
-* Flocons de haricots+lait de chèvre+aubergines râpées+herbes de provence.
+* Flocons de haricots+lait de chèvre+aubergines râpées+herbes de Provence.
 * Flocons de seigle+pommes râpées+cannelle.
 * ... 
 

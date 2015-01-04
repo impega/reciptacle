@@ -2,7 +2,7 @@ Poulet crémeux au cidre
 =======================
 
 Recette normande s'il en est, le poulet crémeux au cidre a fait sa
-première apparition au Bed in City de Lyon lorsque manger des crêpes
+première apparition au Bed-in-City de Lyon lorsque manger des crêpes
 à chaque fois qu'on se voyait était devenu un poil ennuyeux.
 
 Ceci est la version onctueuse (pour ne pas dire fat) de la recette
@@ -20,7 +20,7 @@ Ingrédients (pour 2) :
 - 3 beaux oignons jaunes émincés
 - 50g de beurre
 - 1 cuiller à soupe d'huile
-- une cuiller à soupe bombée de crême fraiche
+- une cuiller à soupe bombée de crème fraiche
 
 À accompagner de :
 ------------------
@@ -40,5 +40,5 @@ laisser cuire à feux doux en remuant régulièrement
 - Verser le cidre par dessus et mener à ébullition (raisonnée,
 hein, ne vaporisez pas le mélange !) afin de faire réduire la sauce
 
-- Lorsque la consistance est assez épaisse, mélanger la crême fraiche,
+- Lorsque la consistance est assez épaisse, mélanger la crème fraiche,
 poivrer et servir !

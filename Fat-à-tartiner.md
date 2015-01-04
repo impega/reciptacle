@@ -9,9 +9,9 @@ tartiner", c'est pas à la légère. (huhu)
 
 Ingrédients :
 
-- 150 g. de chocolat noir
-- 250 g. de beurre demi-sel (une plaquette)
-- 400 g. de lait concentré sucré (une boîte)
+- 150 g de chocolat noir
+- 250 g de beurre demi-sel (une plaquette)
+- 400 g de lait concentré sucré (une boîte)
 
 (je ne sais pas si c'est bon avec du beurre doux, mais quitte à faire
 un truc riche...)

@@ -26,7 +26,7 @@ Un peu compliqué, c'est parce qu'il faut mériter le résultat:
 Cuisson :
 ---------
 
-* Dans une poële pas trop chaude, déposer sans étaler une grosse goutte de pâte
+* Dans une poêle pas trop chaude, déposer sans étaler une grosse goutte de pâte
 
 * Dès que ça paraît possible sans en mettre partout, retourner et laisser dorer
 

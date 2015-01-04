@@ -20,7 +20,7 @@ Ingrédients (~ une douzaine de truffes) :
     - une pincée de noix de muscade en poudre
 
 * Enrobage
-    - 1 cuiller à café de canelle en poudre
+    - 1 cuiller à café de cannelle en poudre
     - 1 cuiller à soupe de farine
     - 1 cuiller à soupe de chocolat en poudre
 
@@ -31,7 +31,7 @@ Préparation :
 avec le beurre, la crème, les clous de girofle. Remuer en continu
 afin de ne pas brûler le chocolat!
 
-- Raper le zeste de l'orange directement dans la casserole, ajouter
+- Râper le zeste de l'orange directement dans la casserole, ajouter
 un trait de jus si l'on veut. Après quelques minutes, ajouter le rhum
 et la muscade.
 

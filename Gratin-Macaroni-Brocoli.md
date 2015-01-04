@@ -17,14 +17,14 @@ Ingrédients (pour 2) :
 Préparation :
 -------------
 
-1. Mettre une casserolle d'eau sur feu moyen et y plonger le brocolis
+1. Mettre une casserole d'eau sur feu moyen et y plonger le brocolis
 dès que l'eau est frémissante
 
 2. Lorsque l'eau bout, ajouter les macaronis et laisser cuire 8 à 10 minutes.
 
 3. Émincer les tomates séchées et couper quelques rondelles de chèvres.
 
-4. Égouter les brocolis / macaronis et les placer dans un plat à gratiner
+4. Égoutter les brocolis / macaronis et les placer dans un plat à gratiner
 en mélangeant les tomates séchées. Couvrir le tout avec les rondelles de
 chèvre et placer le tout dans un four à 200°C.
 

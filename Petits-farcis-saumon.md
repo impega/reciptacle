@@ -17,7 +17,7 @@ Ingrédients (par personne) :
 - 1 courgette
 - huile d'olive
 - jus de citron
-- herbes de provence
+- herbes de Provence
 - fromage râpé
 
 Préparation :
@@ -25,13 +25,13 @@ Préparation :
 
 * Découper le pavé de saumon en fines lamelles et les
   disposer dans un ramequin. Assaisonner avec des herbes
-  provence puis verser un filet d'huile et du jus de
+  Provence puis verser un filet d'huile et du jus de
   citron.
   Laisser mariner pendant le reste de la préparation.
 
 * Fendre la courgette dans le sens de la longueur et
   l'évider à l'aide d'une petite cuiller (laisser un
-  peu moins d'un demi-centimètre de chair sur les bords).
+  peu moins d'un demi centimètre de chair sur les bords).
   Faire sauter le contenu de la courgette dans une
   poêle sur feu vif.
 
@@ -39,8 +39,8 @@ Préparation :
   mariné au fond de la courgette évidée puis couvrir
   le tout avec la chair une fois celle-ci dorée.
 
-* Ajouter une légère quantité de fromage rapé et mettre
+* Ajouter une légère quantité de fromage râpé et mettre
   au four à 175°C (une petite quantité d'eau dans le
-  plat peut permettre d'éviter un trop grand déssechement).
-  Quand le fromage commence à grattiner, c'est prêt !
+  plat peut permettre d'éviter un trop grand dessèchement).
+  Quand le fromage commence à gratiner, c'est prêt !
 

@@ -31,7 +31,7 @@ Pour préparer votre bombe glacée à la framboise :
 
 * Rouler les framboises sur un linge humide.
 
-* Passer les fruits au robot avec le sucre glace et le jus du demi-citron, de manière à les réduire en coulis. Tamiser pour éliminer les graines.
+* Passer les fruits au robot avec le sucre glace et le jus du demi citron, de manière à les réduire en coulis. Tamiser pour éliminer les graines.
 
 * Mettre les meringues dans un sachet et les écraser doucement avec un rouleau à pâtisserie.
 
@@ -57,4 +57,5 @@ Mots clefs :
 ----------------
 
 #dessert
+#framboise
 

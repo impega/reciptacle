@@ -21,7 +21,7 @@ Ingrédients :
     * 25g de beurre (salé)
     * 25g de sucre brun
     * 350g de lait concentré sucré
-    * 1/2 cuiller à café de noix de muscade rapée
+    * 1/2 cuiller à café de noix de muscade râpée
 
 - Couche de chocolat
     * 200g de chocolat noir

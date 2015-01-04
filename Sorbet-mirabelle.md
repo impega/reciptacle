@@ -18,6 +18,7 @@ Préparation :
 * Réaliser un sirop avec le sucre et l'eau
 * Laisser refroidir puis ajouter l'alcool, le jus de citron et la crème fraîche.
 * Finir à la sorbetière (ou à la main, cf. la recette du sorbet à la framboise).
+
 Mots clefs :
 ----------------
 

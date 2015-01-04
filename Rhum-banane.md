@@ -17,9 +17,9 @@ Préparation :
 * Faire cuire les bananes dans le beurre et le sucre dans une poêle jusqu'à ce qu'à obtenir une purée.
 * Verser les bananes avec le rhum dans un bocal.
 * Attendre patiemment pendant deux mois (!) en remuant éventuellement de temps en temps. C'est l'étape la plus difficile.
-* Filtrer le contenu du bocal. Attention : l'ingestion de la phase solide peut entraîner un coma éthilique.
+* Filtrer le contenu du bocal. Attention : l'ingestion de la phase solide peut entraîner un coma éthylique.
 
-Se boît frais ou à température ambiante.
+Se boit frais ou à température ambiante.
 Penser à en refaire tout de suite, étant donné le temps de réalisation.
 
 

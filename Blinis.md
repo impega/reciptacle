@@ -14,7 +14,7 @@ Préparation
 -----------
 * Mélanger le tout, laisser reposer 1h au réfrigérateur
 * Dans une poêle chaude et beurrée (CTML), étaler la pâte en petits disques (1 cuillère à café environ)
-* Les retourner lorque des bulles se forment sur le dessus.
+* Les retourner lorsque des bulles se forment sur le dessus.
 
 Mots clefs
 ----------

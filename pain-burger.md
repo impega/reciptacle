@@ -4,7 +4,7 @@ Pains pour hamburgers
 Note :
 Recette vu sur LinuxFR et entièrement pompée de là-bas. Non essayé.
 Lien : https://linuxfr.org/users/fredx/journaux/recette-pour-burgers
-La fin de la recette est une recette de Burder.
+La fin de la recette est une recette de Burger.
 
 
 Pour un bon burger c'est très important d'avoir un pain maison (les pains industriels sont vraiment pas bons). J'ai été assez surpris de la facilité de la recette. La pâte est la même pour les hot-dogs.

@@ -1,7 +1,7 @@
 Chips rapides au four à micro-ondes
 =================
 
-Des invités de dernière minute et rien à grignotter pour l'apéro ? Vite, des chips vite fait mal fait.
+Des invités de dernière minute et rien à grignoter pour l'apéro ? Vite, des chips vite fait mal fait.
 
 Ingrédients :
 ------------

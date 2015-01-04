@@ -10,7 +10,7 @@ Ingrédients :
 
 - 5 œufs
 - 2 cuillers à soupe de moutarde
-- 150g d'emmental rapé
+- 150g d'emmental râpé
 - 300g de jambon en dé
 - 150g de beurre
 - 250g de farine
@@ -20,7 +20,7 @@ Ingrédients :
 Préparation :
 -------------
 
-- Mélanger dans un saladier les œufs, la moutarge, les herbes, le poivre et le beurre à peine fondu
+- Mélanger dans un saladier les œufs, la moutarde, les herbes, le poivre et le beurre à peine fondu
 
 - Ajouter progressivement la farine en remuant puis incorporer le reste des ingrédients
 
