@@ -4,8 +4,9 @@ echo "Recettes"             >> recipes.md;
 echo "========"             >> recipes.md;
 
 for i in $(  ls ../*.md | sed s/\.md// | sed 's/\.\.\///' | grep -v "README\|index" ); do
-  j=$( head -n 1 ../"$i".md | sed s/\// );
-  for k in $( cat ../"$i".md | sed "s/ /\n/g" | sed -n "/#/,/ /p" | sed "s/#//" ); do
+  j=$( head -n 1 ../"$i".md );
+  for k in $( cat ../"$i".md | sed "s/ /\n/g" | sed -n "/#/,/ /p" | sed "s/#//" | sed '/^[[:space:]]*$/d' ); do
+    echo $k;
     echo "* [$j]($i.html)" >> index."$k".md;
   done;
   echo "* [$j]($i.html)" >> recipes.md;

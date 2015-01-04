@@ -1,4 +1,5 @@
 all: clean
+	./cleanupCRs.sh
 	./index.sh
 	./build.sh build
 	./postprod.sh
