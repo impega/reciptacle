@@ -22,3 +22,8 @@ Préparation :
 Se boît frais ou à température ambiante.
 Penser à en refaire tout de suite, étant donné le temps de réalisation.
 
+
+Mots clefs
+----------
+#rhum
+#boisson
