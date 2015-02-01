@@ -1,4 +1,4 @@
-Pâte à crèpes Froment
+Pâte à crêpes Froment
 =================
 
 Ingrédients (pour 11, 16, 23 larges crêpes) :

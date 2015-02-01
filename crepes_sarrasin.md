@@ -1,4 +1,4 @@
-Pâte à crèpes Sarrasin
+Pâte à crêpes Sarrasin
 =================
 
 Ingrédients (pour 14, 20 larges crêpes) :
