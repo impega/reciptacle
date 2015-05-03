@@ -32,8 +32,8 @@ Préparation :
 * Répartir la pâte dans les moules et cuire pendant 15 min
   minimum dans un four à 170°C (thm. 5).
 
-  Mots clefs :
-  ----------------
+Mots clefs :
+----------------
 
 #dessert
 
