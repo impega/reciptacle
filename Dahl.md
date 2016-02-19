@@ -60,3 +60,4 @@ Mots clefs
 =========
 
 #indien
+#végétarien
