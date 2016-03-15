@@ -3,17 +3,37 @@
 cmd="$1"
 
 listmd() {
-  find . | grep '\.md$' | sed 's/\.md$//'
+  find . | grep '\.md$' | grep -v "keywords.md" | sed 's/\.md$//'
 }
 
 listdir() {
   listmd | grep -o '^.*/' | uniq
 }
 
+rightHandSide() {
+  echo '<div id="rhs">'      >> rightHandSide.html
+  echo '<div id="keywords">' >> rightHandSide.html
+  markdown keywords.md       >> rightHandSide.html
+  echo '</div>'              >> rightHandSide.html
+  cat index                  >> rightHandSide.html
+  echo '</div>'              >> rightHandSide.html
+}
+
+recipe() {
+  file="$1"
+  cp header "$file".html
+  echo '<div id="recipes">'  >> "$file".html
+  markdown "$file".md        >> "$file".html
+  echo '</div>'              >> "$file".html
+  cat rightHandSide.html     >> "$file".html
+  cat footer                 >> "$file".html
+}
+
 case "$cmd" in
   build)
+    rightHandSide
     listdir | while read f; do mkdir -p "$f"; done
-    listmd  | while read f; do cp header "$f".html; markdown "$f".md >> "$f".html; cat footer >> "$f".html; done
+    listmd  | while read f; do recipe "$f"; done
     ;;
   
   clean)

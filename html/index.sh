@@ -9,7 +9,7 @@ for i in $(  ls ../*.md | sed s/\.md// | sed 's/\.\.\///' | grep -v "README\|ind
     echo "* [$j]($i.html)" >> index."$k".md;
   done;
   echo "* [$j]($i.html)" >> recipes.md;
-  sed "1i[Retour à l'index](index.html)\n" ../"$i".md > "$i".md;
+  cp ../"$i".md "$i".md;
   sed -i "s/#\(.*\)/[#\1](index.\1.html)/g" "$i".md;
 done
 

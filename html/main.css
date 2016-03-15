@@ -1,0 +1,25 @@
+h1 {
+  text-align: center
+}
+
+#recipes {
+  width: 49%;
+  float: left;
+  padding: 5px;
+  border-style: solid;
+  border-color: #000000;
+}
+
+#rhs {
+  width: 49%;
+  float: right;
+}
+
+#keywords {
+  border-style: solid;
+  border-color: #000000;
+}
+
+#index {
+  float: right;
+}
