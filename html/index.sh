@@ -21,6 +21,6 @@ for i in $( ls *.md | grep -e "index\..*\.md" | sed 's/index\.//' | sed "s/\.md/
   #  echo "* [$i ($number))](index.$i.html)" >> keywords.md;
   size=$(echo "$number 3" | awk '{printf "%.2fem", $1/$2+1}')
   echo "<span style='font-size:${size}'><a href='index.$i.html'>$i</a></span>" >> keywords.md;
-  sed -i "1i[Retour à l'index](index.html)\n" index."$i".md;
+  sed -i "1i$i\n=====\n" index."$i".md;
 done;
 
