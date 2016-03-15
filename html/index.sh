@@ -10,7 +10,7 @@ for i in $(  ls ../*.md | sed s/\.md// | sed 's/\.\.\///' | grep -v "README\|ind
   done;
   echo "* [$j]($i.html)" >> recipes.md;
   cp ../"$i".md "$i".md;
-  sed -i "s/#\(.*\)/[#\1](index.\1.html)/g" "$i".md;
+  sed -i "s/#\([^[:space:]]*\)[[:space:]]*/[#\1](index.\1.html)/g" "$i".md;
 done
 
 echo "Mots clefs"              >> keywords.md;
