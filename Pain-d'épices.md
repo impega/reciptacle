@@ -29,4 +29,4 @@ Temps de cuisson : 30 à 40 min
 Mots clefs :
 ------------
 
-#gateau
+#gâteau
