@@ -46,9 +46,8 @@ in the fridge).
 * let it rest while the oven is preheating (we found that 460F was nice without
 convection, ours here has convection, 450 seems enough)
 * during preheating (and cooking), put a pan in the oven with water in it so
-that the interior of the oven has a high humidity
-
-* put some flour on top of each baguettes (it will gicve a sexy "old-fashioned
+that the interior of the oven has high humidity
+* put some flour on top of each baguettes (it will give a sexy "old-fashioned
 look")
 * before putting in the oven, do some cuts on top of the baguettes with scissors
 * cook for 30 minutes (with convection, generally we let it 40/45 minutes
