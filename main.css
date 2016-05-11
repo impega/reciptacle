@@ -21,7 +21,7 @@ img {
 @media only screen and (min-width: 768px){
   #recipes, #rhs{
     float: right;
-    max-width: 48%;
+    width: 48%;
     display: inline-block;
   }
   #recipes {
