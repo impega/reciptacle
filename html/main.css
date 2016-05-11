@@ -2,24 +2,25 @@ h1 {
   text-align: center
 }
 
-#recipes {
-  width: 49%;
-  float: left;
+#recipes, #keywords {
   padding: 5px;
   border-style: solid;
   border-color: #000000;
-}
-
-#rhs {
-  width: 49%;
-  float: right;
-}
-
-#keywords {
-  border-style: solid;
-  border-color: #000000;
+  margin-bottom: 10px;
 }
 
 #index {
+  margin-right: 10px;
   float: right;
+}
+
+@media only screen and (min-width: 768px){
+  #recipes, #rhs{
+    float: right;
+    max-width: 48%;
+    display: inline-block;
+  }
+  #recipes {
+    float: left;
+  }
 }
