@@ -24,3 +24,8 @@ Préparation
 5. Badigeonnez éventuellement de jaune d'œuf.
 3. Enfourner à 180°C pendant environ 15/20 minutes jusqu'à ce que ce soit bien doré mais pas trop sec/brûlé.
 
+Mots clefs
+----------
+
+#apéro
+
