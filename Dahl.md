@@ -57,7 +57,7 @@ Verser dans la casserole et mélanger.
 des naans, ...
 
 Mots clefs
-=========
+----------
 
 #indien
 #végétarien
