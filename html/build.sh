@@ -23,7 +23,7 @@ recipe() {
   file="$1"
   cp header "$file".html
   title=$(head -n1 "$file".md)
-  sed -i "s/<title>/<title>$title - /" "$file".html;
+  sed -i "s/<title>/<title>${title//\//\\/} - /" "$file".html;
   echo '<div id="recipes">'  >> "$file".html
   markdown "$file".md        >> "$file".html
   echo '</div>'              >> "$file".html
