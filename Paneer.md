@@ -21,6 +21,7 @@ Préparation :
 - Passer le tout dans le filtre en tissu.
 - Former une boule ou un pain dans le tissu et l'écraser avec un poids pendant quelques dizaines de minutes, jusqu'à ce que soit formé.
 - Conserver au frais jusqu'à quelques jours.
+
 Mots-clés :
 -----------
 #végétarien
