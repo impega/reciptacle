@@ -1,0 +1,10 @@
+Dot2rcpe
+========
+
+Basic attempt to generate a recipe from a dot file
+
+Dependencies
+------------
+* ocaml
+* ocamldot: http://zoggy.github.io/ocamldot/
+

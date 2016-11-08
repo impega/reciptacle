@@ -1,0 +1,18 @@
+    digraph Mascarpone {
+    	// ingredients and result
+    	node [shape = ellipse]; "2 eggs" "100g mascarpone" "crema di mascarpone";
+    	// steps
+    	node [shape = square];
+    	
+		// all inner edges must have a label
+    	"2 eggs" -> Crack;
+    	Crack -> Whisk [label = "white"];	
+    	Crack -> Beat [label = "yolk"];
+    	Whisk -> Fold [label = "whisked whites"];
+    	Beat -> Stir [label = "yolky paste"];
+    	"100g mascarpone" -> Stir;
+    	Stir -> Fold [label = "thick paste"];
+    	Fold -> "crema di mascarpone";
+    }
+
+
