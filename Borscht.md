@@ -56,3 +56,9 @@ et laisser cuire 5 à 10 minutes. Ajouter l'ail.
 
 - Laisser reposer une heure (ou un jour, c'est encore mieux !)
 puis servir et assaisonner de coriandre.
+
+Mots clefs :
+----------------
+
+#végétarien
+#soupe
