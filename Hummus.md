@@ -26,6 +26,11 @@ Niveau quantité, je fais en sorte de ne plus voir le fond de la casserolle.
 Je n'ai jamais testé avec des pois-chiches en conserve mais je lis
 partout que ça marche aussi bien.
 
+* Enlever la peau, ou pas : ça améliore la texture, et surtout ça rend le pois
+  chiche plus digeste, mais c'est une plaie. On peut le faire à la main, en les
+  frottant dans un torchon, en les passant dans un moulin à légumes, mais
+  j'attends toujours de connaître la solution miracle.
+
 * Tout passer au mixer
 
 Ne pas oublier de conserver une partie de l'eau des pois chiches
