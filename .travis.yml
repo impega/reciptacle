@@ -16,7 +16,7 @@ after_success:
 - git fetch upstream && git reset upstream/gh-pages
 - git add -f *.html
 - git commit -m "Uploading snapshot $(date '+%m/%d/%y %H:%M')"
-- git push -q upstream HEAD:gh-pages &>/dev/null
+- git push -q upstream HEAD:gh-pages
 notifications:
   email: false
 env:
