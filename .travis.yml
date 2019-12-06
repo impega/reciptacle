@@ -19,6 +19,3 @@ after_success:
 - git push -q upstream HEAD:gh-pages
 notifications:
   email: false
-env:
-  global:
-    secure: T90bTifcShiQSag/AnZSu3gOcIKcYaEX2GytuJxzm+Oht8edoMntBTesdtarjj4AbzoKed0jnYEkhX/UNoA17ULObBmhOCqWl72lngucRjw50+Ku0Mj39h/78CruWmi/kcE0bWC/KAlOu59CmljNI0gG57KFEnja9AcUSEIw95E=
