@@ -45,7 +45,8 @@ recipe() {
       -e 's#(<h2>Pr(é|e)paration[^>]*>[^<]*<\w*)#\1 itemprop=\"recipeInstructions\"#' |\
     sed -r \
       -e '1h;2,$H;$!d;g'\
-      -e 's#(<h2>Mots[^>]*>[^<]*<\w*)#\1 itemprop=\"keywords\"#' \
+      -e 's#(<h2>Mots[^>]*>[^<]*<\w*)#\1 itemprop=\"keywords\"#' |\
+    sed 's/<img/<img itemprop=\"image\"/g' \
     >> "$file".html
 
   echo '</article>'              >> "$file".html
