@@ -30,7 +30,7 @@ recipe() {
   # la description est la première balise après le titre. probablement un
   # paragraphe
   # les li avant préparation sont des ingrédients
-  # les instructions suivent "préparation"
+  # les instructions suivent "préparation" et sont dans une liste
   # les mots-clés suivent "Mots clefs"
   markdown "$file".md | \
     sed 's/<h1/<h1 itemprop=\"name\"/' | \
@@ -42,7 +42,9 @@ recipe() {
       -e "t loop" | \
     sed -r \
       -e '1h;2,$H;$!d;g'\
-      -e 's#(<h2>Pr(é|e)paration[^>]*>[^<]*<\w*)#\1 itemprop=\"recipeInstructions\"#' |\
+      -e ":loop"\
+      -e 's#(<h2>Pr(é|e)paration.*<li)>#\1 itemprop=\"recipeInstructions\">#' \
+      -e "t loop" | \
     sed -r \
       -e '1h;2,$H;$!d;g'\
       -e 's#(<h2>Mots[^>]*>[^<]*<\w*)#\1 itemprop=\"keywords\"#' |\
