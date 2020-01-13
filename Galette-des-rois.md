@@ -15,7 +15,7 @@ Ingrédients :
 - 3 œufs (2 pour la frangipane, 1 pour faire dorer la croûte)
 - 150 g d'amandes en poudre
 - 2 cuiller à café d'extrait de vanille
-- 50 g de [crème pâtissière](Creme-Patissiere.html)
+- 50 g de [crème pâtissière](Creme-patissiere.html)
 
 Préparation :
 -------------
