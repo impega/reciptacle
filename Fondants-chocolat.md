@@ -10,6 +10,8 @@ Ingrédients :
 
 - 250 g de chocolat 52% de cacao
 - 175 g de beurre
+- 1 expresso
+
 - 125 g de sucre glace
 - 75 g de farine
 - 5 œufs
@@ -17,7 +19,7 @@ Ingrédients :
 Préparation :
 -------------
 
-* Faire fondre le beurre et le chocolat
+* Faire fondre le beurre et le chocolat, ajouter le café
 
 * Dans un bol, mélanger la farine, le sucre glace et les œufs
 
