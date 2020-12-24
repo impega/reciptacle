@@ -14,7 +14,7 @@ Ingrédients (pour 1 moule à cake) :
 - 100 g de sucre
 - 1 cuiller à café de bicarbonate de soude
 - 15 cl de lait
-- 2 belles cuillers à soupe de miel
+- 4 belles cuillers à soupe de miel
 - Des épices (typiquement 1 cuiller à café de cannelle, gingembre et clou de girofle moulus)
 
 Préparation :
