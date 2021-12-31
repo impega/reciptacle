@@ -1,0 +1,23 @@
+dessert
+=====
+
+* [Banana Bread](Banana-bread.html)
+* [Bombe glacée à la framboise](Bombe-Glacée-Framboise.html)
+* [Cake au citron](Cake-citron.html)
+* [Caramel au beurre salé](Caramel-au-beurre-salé.html)
+* [Cookies à la mélasse](Cookies-melasse.html)
+* [Sortie : Cookies au chocolat (pour 25 gros environs)](Cookies.html)
+* [Crumble Poire & Pomme](Crumble.html)
+* [Fondants au chocolat](Fondants-chocolat.html)
+* [Galette des rois](Galette-des-rois.html)
+* [Gateau Moelleux Bananes-Dattes](Gateau-banane-dattes.html)
+* [Millionaire's Shortbread](Millionaire-Shortbread.html)
+* [Mousse au chocolat vegan](Mousse-Chocolat-Vegan.html)
+* [Base pour muffins](Muffins.html)
+* [Riz au lait](Riz-au-lait.html)
+* [Rochers coco](Rochers-Coco.html)
+* [Sorbet à la Framboise (1.5L)](Sorbet-framboise.html)
+* [Sorbet à l'eau de vie](Sorbet-mirabelle.html)
+* [Tiramisu](Tiramisu.html)
+* [Truffes au chocolat](Truffes-Chocolat.html)
+* [Pâte à crêpes Froment](crepes_froment.html)
