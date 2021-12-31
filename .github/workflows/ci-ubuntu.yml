@@ -40,6 +40,8 @@ jobs:
           cd html
           make
           cd ..
+          mkdir deploy
+          mv html/*.html deploy/
 
 ########################################################################
 ## DEPLOYMENT
@@ -51,5 +53,5 @@ jobs:
 
         with:
           branch: gh-pages
-          folder: html
+          folder: deploy
           git-config-name: Github Actions
