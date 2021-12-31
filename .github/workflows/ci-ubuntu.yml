@@ -1,0 +1,55 @@
+name: Ubuntu build
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Initialise variables
+        run: |
+          if [[ '${{ github.ref }}' == 'refs/heads/master' ]]; then
+             echo "RECIPTACLE_DEPLOY=true" >> $GITHUB_ENV
+          fi
+
+########################################################################
+## INSTALLATION STEPS
+########################################################################
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y markdown
+
+########################################################################
+## BUILD
+########################################################################
+
+      # By default github actions do not pull the repo
+      - name: Checkout stdlib
+        uses: actions/checkout@v2
+
+      - name: Build website
+        run: |
+          cd html
+          make
+          cd ..
+
+########################################################################
+## DEPLOYMENT
+########################################################################
+
+      - name: Deploy HTML
+        uses: JamesIves/github-pages-deploy-action@4.1.3
+        if: ${{ success() && env.RECIPTACLE_DEPLOY }}
+
+        with:
+          branch: gh-pages
+          folder: html
+          git-config-name: Github Actions
