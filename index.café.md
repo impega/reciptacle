@@ -1,4 +1,0 @@
-café
-=====
-
-* [Tiramisu](Tiramisu.html)

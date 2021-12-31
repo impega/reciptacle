@@ -1,4 +1,0 @@
-cerises
-=====
-
-* [Clafoutis](Clafoutis.html)
