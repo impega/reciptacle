@@ -41,7 +41,7 @@ jobs:
           make
           cd ..
           mkdir deploy
-          mv html/*.html deploy/
+          mv html/*.html html/*.css deploy/
 
 ########################################################################
 ## DEPLOYMENT
