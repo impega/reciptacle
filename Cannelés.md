@@ -34,7 +34,7 @@ Préparation :
   de jeu pour éviter les fuites lors de la cuisson.
 
 * Préchauffer le four à 230°C, cuire pendant 12 minutes puis redescendre
-  à 180°C pendant 45 minutes.
+  à 180°C pendant 45 à 50 minutes selon la cuisson désirée.
 
 * Laisser reposer un peu mais démouler pendant que les cannelés sont
   encore chauds. Laisser refroidir, ils sont encore meilleurs le lendemain.
