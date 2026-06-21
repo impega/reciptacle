@@ -5,7 +5,7 @@ set -eu
 cmd="$1"
 
 listmd() {
-  find . | grep '\.md$' | grep -v "keywords.md" | sed 's/\.md$//'
+  find . | grep '\.md$' | grep -v "keywords.md" | sed 's/\.md$//' | sort
 }
 
 listdir() {
