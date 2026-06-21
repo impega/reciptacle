@@ -20,3 +20,8 @@ Préparation :
 * Faîtes revenir les oignons puis la viande dans un grand fait-tout.
 * Ajoutez les haricots, la sauce tomate et les épices (sans oublier le sel et le poivre) et laissez mijoter quelques minutes.
 * En fin de cuisson ajoutez le maïs et éventuellement quelques rondelles d'oignon rouge.
+
+Mots clefs
+----------
+
+#chili
