@@ -1,4 +1,4 @@
-Mousse au chocolat vegan
+Mousse au chocolat
 ===============
 
 On peut ajouter un peu de café dans le chocolat fondu pour faire ressortir
